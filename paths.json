@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/banca-generali-private/language-masters/en:/",
+    "/content/banca-generali-private/language-masters/en/:/en/",
+    "/content/banca-generali-private/language-masters/fr/:/fr/",
+    "/content/banca-generali-private/language-masters/fr:/fr",
+    "/content/banca-generali-private/language-masters/es/:/es/",
+    "/content/banca-generali-private/language-masters/es:/es",
+    "/content/banca-generali-private/language-masters/ja/:/ja/",
+    "/content/banca-generali-private/language-masters/ja:/ja",
+    "/content/banca-generali-private/language-masters/de/:/de/",
+    "/content/banca-generali-private/language-masters/de:/de",
+    "/content/banca-generali-private/configuration:/.helix/config.json",
+    "/content/banca-generali-private/metadata:/metadata.json",
+    "/content/banca-generali-private/redirects:/redirects.json",
+    "/content/banca-generali-private/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/banca-generali-private/",
+    "/content/dam/banca-generali-private/"
   ]
 }
