@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/banca-generali-private/language-masters/en:/",
-    "/content/banca-generali-private/language-masters/en/:/en/",
-    "/content/banca-generali-private/language-masters/fr/:/fr/",
-    "/content/banca-generali-private/language-masters/fr:/fr",
-    "/content/banca-generali-private/language-masters/es/:/es/",
-    "/content/banca-generali-private/language-masters/es:/es",
-    "/content/banca-generali-private/language-masters/ja/:/ja/",
-    "/content/banca-generali-private/language-masters/ja:/ja",
-    "/content/banca-generali-private/language-masters/de/:/de/",
-    "/content/banca-generali-private/language-masters/de:/de",
-    "/content/banca-generali-private/configuration:/.helix/config.json",
-    "/content/banca-generali-private/metadata:/metadata.json",
-    "/content/banca-generali-private/redirects:/redirects.json",
-    "/content/banca-generali-private/placeholders:/placeholders.json"
+    "/content/league-app/language-masters/en:/",
+    "/content/league-app/language-masters/en/:/en/",
+    "/content/league-app/language-masters/fr/:/fr/",
+    "/content/league-app/language-masters/fr:/fr",
+    "/content/league-app/language-masters/es/:/es/",
+    "/content/league-app/language-masters/es:/es",
+    "/content/league-app/language-masters/ja/:/ja/",
+    "/content/league-app/language-masters/ja:/ja",
+    "/content/league-app/language-masters/de/:/de/",
+    "/content/league-app/language-masters/de:/de",
+    "/content/league-app/configuration:/.helix/config.json",
+    "/content/league-app/metadata:/metadata.json",
+    "/content/league-app/redirects:/redirects.json",
+    "/content/league-app/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/banca-generali-private/",
-    "/content/dam/banca-generali-private/"
+    "/content/league-app/",
+    "/content/dam/league-app/"
   ]
 }
