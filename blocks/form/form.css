@@ -99,6 +99,10 @@ main .form {
     background-color: var(--form-background-color);
 }
 
+main .form {
+    background-color: #dcdcdc;
+}
+
 main .form > div:not(:first-child) {
     display: none;
 }
@@ -553,6 +557,14 @@ main .form form .wizard  {
   padding: 20px var(--form-wizard-padding);
 }
 
+
+
+
+
+main .form form .wizard {
+    background-color: #dcdcdc;
+}
+
 main .form form .wizard > fieldset > legend{
     display: none;
 }
@@ -605,11 +617,25 @@ main .form form .wizard .wizard-menu-item::before {
   display: inline-block;
 }
 
+main .form .button-wrapper button:hover {
+    background-color: goldenrod;
+}
+
+main .form form .wizard .wizard-menu-item::before {
+    border: solid 2px goldenrod;
+    color: goldenrod;
+}
+
 main .form form .wizard .wizard-menu-active-item::before{
   border: 2px solid var(--form-wizard-number-color);
   background: var(--form-wizard-number-color);
   color: var(--background-color-primary);
   font-weight: 600;
+}
+
+main .form form .wizard .wizard-menu-active-item::before {
+    border: palegoldenrod;
+    background: goldenrod;
 }
 
 @media (width >= 600px) {
@@ -781,6 +807,10 @@ main div.form-wrapper {
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 4px 24px rgb(0 0 0 / 8%);
+}
+
+main div.form-wrapper {
+    box-shadow: none;
 }
 
 /* Responsive adjustments for mobile */
