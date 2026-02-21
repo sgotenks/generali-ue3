@@ -811,6 +811,7 @@ main div.form-wrapper {
 
 main div.form-wrapper {
     box-shadow: none;
+    background: initial;
 }
 
 /* Responsive adjustments for mobile */
