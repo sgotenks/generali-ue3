@@ -427,6 +427,11 @@ main .form button {
     width: 100%;
 }
 
+main .form button {
+    color: var(--form-button-color);
+    background: goldenrod;
+}
+
 main form .file-wrapper > button{
     display: flex;
 }
